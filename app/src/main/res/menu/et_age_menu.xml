@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/age_item_one"
+        android:id="@+id/ageItemOne"/>
+    <item
+        android:title="@string/age_item_two"
+        android:id="@+id/ageItemTwo"/>
+
+</menu>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/mic"
+        app:showAsAction="always"
+        android:orderInCategory="12"
+        android:id="@+id/menuItemMic"
+        android:icon="@drawable/ic_mic"/>
+    <item
+        android:title="@string/Setting"
+        app:showAsAction="never"
+        android:id="@+id/menItemSetting"
+        android:orderInCategory="10"/>
+    <item
+        android:title="@string/status"
+        app:showAsAction="never"
+        android:id="@+id/menStatus"
+        android:orderInCategory="8"/>
+
+</menu>

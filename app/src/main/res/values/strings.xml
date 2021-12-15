@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">User Interaction Demo</string>
+    <string name="ui_design">Ui Design</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_age">Enter your Age</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="female">female</string>
+    <string name="male">Male</string>
+    <string name="alert_dialog">ALERT DIALOG</string>
+    <string name="progress_dialog">Progress DiaLog</string>
+    <string name="next">Next</string>
+    <string name="menus">MENUS</string>
+    <string name="mic">Mic</string>
+    <string name="Setting">Setting</string>
+    <string name="status">Status</string>
+    <string name="one">Item One</string>
+    <string name="item_two">Item Two</string>
+    <string name="age_item_one">Age Item One</string>
+    <string name="age_item_two">Age Item Two</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="java_fragment">Java Fragment</string>
+    <string name="android_fragment">Android Fragment</string>
+    <string name="ios_fragment">Ios Fragment</string>
+    <string name="go_to_recycle_view">Go to Recycle View</string>
+    <string name="go_to_recycler_view">Go To Recycler View</string>
+    <string name="recyclerview">RecyclerView</string>
+    <string-array name="petName">
+        <item>Cow</item>
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Cow</item>
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Cat</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Cow is Honer</item>
+        <item>Dog is Faithful</item>
+        <item>Cat is Cuter</item>
+        <item>Cow is honer</item>
+        <item>Dog is faithful</item>
+        <item>Cat is Cuter</item>
+        <item>Dog is Faithful</item>
+        <item>Cat is Cuter</item>
+    </string-array>
+</resources>
